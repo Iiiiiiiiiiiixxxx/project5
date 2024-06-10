@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#272A33</color>
+    <color name="f">#141822</color>
+    <color name="fa">#52909296</color>
+    <color name="transpared">#70909296</color>
+    <color name="fs">#100F18</color>
+    <color name="lightgrey">#23232e</color>
+    <color name="NavyBlue">#000000</color>
+
+    <color name="switch_thumb_color_checked">#0000FF</color>
+    <color name="switch_thumb_color_unchecked">#FFFFFF</color>
+    <color name="switch_track_color">#CCCCCC</color>
+
+    <color name="primary_blue">#0000FF</color>
+
+    <color name="card_background_color">#00FFFFFF</color>
+
+    <color name="card_background">#141722</color>
+
+    <color name="edit_text_background">#141722</color>
+    <color name="dialog_background">#141722</color>
+    <color name="button_background">#141722</color>
+    <color name="your_accent_color">#141722</color>
+    <color name="red">#FF0000</color>
+
+    <color name="amber_500">#24242d</color>
+
+</resources>
+

@@ -1,0 +1,10 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Состояние, когда радиокнопка выбрана -->
+    <item android:drawable="@drawable/ic_checked" android:state_checked="true" />
+
+    <!-- Состояние по умолчанию -->
+    <item android:drawable="@drawable/ic_unchecked" android:state_checked="false"/>
+
+</selector>
+

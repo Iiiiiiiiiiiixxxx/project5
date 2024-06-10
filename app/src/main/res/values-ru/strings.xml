@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Проект 5</string>
+    <string name="text1">Автоматическое распознавание</string>
+    <string name="text2">Множество способов добавить субтитры к вашему видео в кратчайшие сроки.</string>
+    <string name="text3">Продолжить</string>
+    <string name="text4">Стиль субтитров</string>
+    <string name="text5">Выберите стиль отображения субтитров, который идеально подходит для вашего проекта</string>
+    <string name="text6">Некоторые строки могут быть</string>
+    <string name="text7">Классический</string>
+    <string name="text8">Динамический</string>
+    <string name="text9">Броский</string>
+    <string name="text10">Стиль субтитров</string>
+    <string name="text11">Количество строк в субтитре</string>
+    <string name="text12">Авто</string>
+    <string name="text13">Стиль субтитров</string>
+    <string name="text14">Вы можете настроить его позже</string>
+    <string name="text15">Исходный язык</string>
+    <string name="text16">Все языки</string>
+    <string name="text17">Языки устройств</string>
+    <string name="text18">Создать</string>
+    <string name="text19">Настройки субтитров</string>
+    <string name="text20">"Создание субтитров из видео "</string>
+    <string name="text21">Исходный язык</string>
+    <string name="text22">Перевести субтитры</string>
+    <string name="text23">"Перевести субтитры на "</string>
+    <string name="text24">"Закадровый голос "</string>
+    <string name="text25">Язык озвучки</string>
+    <string name="text26">Тип голоса</string>
+    <string name="text27">Перевести субтитры на</string>
+    <string name="text28">Поиск</string>
+    <string name="text29">Применить</string>
+</resources>

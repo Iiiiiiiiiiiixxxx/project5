@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">project5</string>
+    <string name="text1">Auto Recognition</string>
+    <string name="text2">Lots of ways to add subtitles \nto your video in no time.</string>
+    <string name="text3">Continue</string>
+    <string name="text4">Subtitle Style</string>
+    <string name="text5">Select the subtitle display style that \nis perfect for your project</string>
+    <string name="text6">Some lines can be</string>
+    <string name="text7">Classic</string>
+    <string name="text8">Dynamic</string>
+    <string name="text9">Catchy</string>
+    <string name="text10">Style subtitles</string>
+    <string name="text11">Lines per page</string>
+    <string name="text12">Auto</string>
+    <string name="text13">Choose subtitle style</string>
+    <string name="text14">You can customize it later</string>
+    <string name="text15">Source language</string>
+    <string name="text16">All languages</string>
+    <string name="text17">Device languages</string>
+    <string name="text18">Create</string>
+    <string name="text19">Subtitle settings</string>
+    <string name="text20">Creating subtitles from videos</string>
+    <string name="text21">Source language</string>
+    <string name="text22">Translate subtitles</string>
+    <string name="text23">Translate subtitles to</string>
+    <string name="text24">Voiceover</string>
+    <string name="text25">Voice language</string>
+    <string name="text26">Voice type</string>
+    <string name="text27">Translate subtitles to</string>
+    <string name="text28">Search</string>
+    <string name="text29">Apply</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
